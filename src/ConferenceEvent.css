@@ -255,13 +255,14 @@
     padding: 20px 20px;
     background-color:#133b6a;
     color: white;
-    width: 100vw;
+    width: 90vw;
   }
   
   .company_logo {
     font-size: 30px;
     color: #EFC16B;
     font-weight: 700;
+    width: 70px;
   }
   .nav_links{
     display: flex;
@@ -299,6 +300,7 @@
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-left: 0;
     /* background-color: transparent; */
   }
   
